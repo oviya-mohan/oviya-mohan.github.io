@@ -3,21 +3,11 @@ layout: home
 excerpt: "About Me..."
 ---
 
-This project is meant to help students and researchers across University of Rochester create their
-  own hosted academic website for free with GitHub. 
+## About Me 
 
-## About this Site
+I am a third-year Ph.D. student in the Brain and Cognitive Sciences department at the University of Rochester, New York. I work in the Collective Cognition Lab with Dr. Dora Biro and in the Mithcell Lab with Dr. Jude Mithcell. My primary research interest is in collective decision-making, specifically coordinated problem-solving. I am interested in understanding the cognitive capacities required to for complex coordinated problem-solving by exploring them across various species including humans. I aim to incorporate deep learning and machine vision tools to study collective behavior in naturalistic settings. 
 
-This project is a slight customization based off of some great work by 
-  [NC State University Libraries](https://www.lib.ncsu.edu/).
-  The original project, called [`jekyll academic`](https://ncsu-libraries.github.io/jekyll-academic-docs/)
-  has its own [github repository](https://github.com/NCSU-Libraries/jekyll-academic)
-  and [workshop documentation](https://ncsu-libraries.github.io/jekyll-academic-docs/workshop/). 
+I enjoy taking an interdisciplinary approach to my research and am currently working on two main projects using coordinated problem-solving. 
 
 
-## Creating Your Own
-
-To see a step-by-step guide to build your own site, go to the [RESEARCH](/research) section. 
-  There you'll find a basic [guide](/blog/getting-started) that will help you
-  create your new site.
   
