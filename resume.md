@@ -5,48 +5,24 @@ layout: resume
 
 ## Currently
 
-PhD student, Brain and Cognitive Sciences 
+PhD student, Brain and Cognitive Sciences <br>
+University of Rochester, New York 
+PI: Dr. Dora Biro, Dr. Jude Mithcell
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2018 - 2021`
+__Indian Institue of Technology, Kanpur, India__
+Master of Science (by Research), Cognitive Science
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
-
-## Awards
-
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
+`2015 - 2018`
+__Amrita University, Coimbatore, India__
+Bachelor of Science, Physics  
 
 ## Presentations
 
-`1994`
-Presentation Title, Conference
+`2023`
+Experimental Emergence of Conventions in Human Dyads, Gordon Research Conference - Collective Behavior
 
 
 ## Employment History
