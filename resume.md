@@ -6,9 +6,9 @@ layout: resume
 ## Currently
 
 `2021 - present`
-__University of Rochester, New York__
+__University of Rochester, New York__ <br> 
 Doctor of Philosophy, Brain and Cognitive Sciences <br>
-PI: Dr. Dora Biro, Dr. Jude Mithcell
+PIs: Dr. Dora Biro, Dr. Jude Mithcell
 
 ## Education
 
