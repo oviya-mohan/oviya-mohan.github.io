@@ -30,20 +30,47 @@ Experimental Emergence of Conventions in Human Dyads
 __6th Annual Conference on Cognitive Sciences - BITS, Goa__ <br>
 Newly Learned Social Associations Disrupt Target Search
 
+## Teaching 
+
+`Fall 2023`
+__Teaching Assistant - Animal Minds (Dr. Dora Biro)__ <br>
+Dept. of Brain and Cognitive Sciences, University of Rochester 
+
+`Spring 2023`
+__Organizer (student-led course) - Advanced Methods for Brain and Cognitive Sciences__ <br>
+Dept. of Brain and Cognitive Sciences, University of Rochester 
+
+`Fall 2022`
+__Organizer (student-led course) - Statistics for Brain and Cognitive Sciences__ <br>
+Dept. of Brain and Cognitive Sciences, University of Rochester 
+__Teaching Assistant - Animal Minds (Dr. Dora Biro)__ <br>
+Dept. of Brain and Cognitive Sciences, University of Rochester
+
+`Fall 2020`
+__Remedial tutor - Basic Statistics, Data Analysis and Inference__ <br>
+Dept. of Cognitive Science, Indian Institute of Technology, Kanpur
+
+`Spring 2020`
+__Teaching Assistant - Logic and Cognitive Science (Dr. Mohua Banerjee)__ <br>
+Dept. of Cognitive Science, Indian Institute of Technology, Kanpur
+
+
 ## Employment History
 
-`Current`
-__Current Job Title__, Current Employer 
+`2021`
+__Research Associate__, Indian Institute of Technology, Kanpur  
 
-- Task
-- Task
+- Developing a GUI of PHMR (Pipeline Health Monitoring Robot) for GAIL (Gas Authority of India Ltd.)
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+  `2018-2019`
+__Research Assistant__, Indian Institute of Technology, Kanpur  
 
-- Task
-- Task
+- Investigating role of object's self-relevance in attentional guidance through psychophysics 
 
+## Certifications
 
+ `2023`
+__Deep Learning - Machine Vision__, Neuromatch Academy 
 
+## 
 
