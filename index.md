@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "About Me..."
+excerpt: 
 ---
 
 ## About Me 
