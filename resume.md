@@ -62,7 +62,7 @@ __Research Associate__, Indian Institute of Technology, Kanpur
 
 - Developing a GUI of PHMR (Pipeline Health Monitoring Robot) for GAIL (Gas Authority of India Ltd.)
 
-  `2018-2019`
+`2018-2019`
 __Research Assistant__, Indian Institute of Technology, Kanpur  
 
 - Investigating role of object's self-relevance in attentional guidance through psychophysics 
@@ -72,5 +72,13 @@ __Research Assistant__, Indian Institute of Technology, Kanpur
  `2023`
 __Deep Learning - Machine Vision__, Neuromatch Academy 
 
-## 
+## Positions 
+
+`2022-present`
+__Graduate Student Representative__, Dept. of Brain and Cognitive Sciences, University of Rochester 
+- Committes: Graduate Program Overhaul, DEI (Diversity, Equity and Inclusivity), Faculty Search, Graduate Student Association 
+
+`2022-2023`
+__Graduate Ambassador__, Graduate Education and Postdoctoral affairs, University of Rochester 
+
 
