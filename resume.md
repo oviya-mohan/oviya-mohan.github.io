@@ -42,7 +42,7 @@ Dept. of Brain and Cognitive Sciences, University of Rochester
 
 `Fall 2022`
 __Organizer (student-led course) - Statistics for Brain and Cognitive Sciences__ <br>
-Dept. of Brain and Cognitive Sciences, University of Rochester 
+Dept. of Brain and Cognitive Sciences, University of Rochester <br>
 __Teaching Assistant - Animal Minds (Dr. Dora Biro)__ <br>
 Dept. of Brain and Cognitive Sciences, University of Rochester
 
