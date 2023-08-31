@@ -19,7 +19,7 @@ Designed and conducted experiments, using rules of formal logic, to understand t
 
 `2018 - 2019`
 __Agent Based Modelling of Cooperation__ <br> 
-Used an agent based model to better understand the role of cooperation in the survival of both individuals and groups in a community
+Used an agent-based model to better understand the role of cooperation in the survival of both individuals and groups in a community
 
 `2017 - 2018`
 __Pulse Generating Circuit for NMR__ <br> 
