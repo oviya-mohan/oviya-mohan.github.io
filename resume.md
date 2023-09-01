@@ -24,7 +24,7 @@ Bachelor of Science, Physics
 
 `2023 - Poster`
 __Gordon Research Conference - Collective Behavior__ <br>
-Experimental Emergence of Conventions in Human Dyads 
+[Experimental Emergence of Conventions in Human Dyads](https://drive.google.com/file/d/1w872w2Wg7ckLzSh4k2XnilAx-J1FYnFs/view?usp=sharing) 
 
 `2019 - Poster`
 __6th Annual Conference on Cognitive Sciences - BITS, Goa__ <br>
