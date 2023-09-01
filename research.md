@@ -4,9 +4,9 @@ title: Research
 ---
 
 `2021 - present`
-__Experimental Emergence of Conventions in Human Dyads__ <br> 
+[__Experimental Emergence of Conventions in Human Dyads__](https://drive.google.com/file/d/1w872w2Wg7ckLzSh4k2XnilAx-J1FYnFs/view?usp=sharing) <br> 
 Studying the emergence of conventions in the laboratory under different conditions through repeated multi-agent interactions in a coordinated problem-solving task in humans  
-<object data="images/OviyaMohan_GRC_Poster.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 
 `2021 - present`
 __Multi-animal tracking and labeling in a social paradigm__ <br> 
