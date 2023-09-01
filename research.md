@@ -7,7 +7,7 @@ title: Research
 __Experimental Emergence of Conventions in Human Dyads__ <br> 
 Studying the emergence of conventions in the laboratory under different conditions through repeated multi-agent interactions in a coordinated problem-solving task in humans  
 
-<object data="{{ site.url }}{{ site.baseurl }}/images/OviyaMohan_GRC_Poster.pdf" width="1000" height="1333" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/images/OviyaMohan_GRC_Poster.pdf" width="800" height="1064" type="application/pdf"></object>
 
 
 
