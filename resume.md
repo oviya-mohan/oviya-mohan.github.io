@@ -67,11 +67,11 @@ Enana Jacobs, Neuroscience <br>
 `2023-present`
 Kiet Nguyen, Computer Science <br>
 `Summer 2023`
-Skye Crocker, Data Science 
+Skye Crocker, Data Science <br>
 `2022-2023`
-Federico Sanchez, Biology 
+Federico Sanchez, Biology <br>
 `2022-2023`
-Helena Xiong, Neuroscience 
+Helena Xiong, Neuroscience <br>
 
 ## Employment History
 
