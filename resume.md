@@ -55,6 +55,14 @@ __Teaching Assistant - Logic and Cognitive Science (Dr. Mohua Banerjee)__ <br>
 Dept. of Cognitive Science, Indian Institute of Technology, Kanpur
 
 
+## Mentorship - Undergraduate Mentees
+`Janejira Chapoomee` 2023-present - Neuroscience 
+`Enana Jacobs` 2023-present - Neuroscience 
+`Kiet Nguyen` 2023-present - Computer Science 
+`Skye Crocker` Summer 2023 - Data Science 
+`Federico Sanchez` 2022-2023 - Biology 
+`Helena Xiong` 2022-2023 - Neuroscience 
+
 ## Employment History
 
 `2021`
