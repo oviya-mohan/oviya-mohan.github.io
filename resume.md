@@ -22,6 +22,10 @@ Bachelor of Science, Physics
 
 ## Presentations
 
+`Fall 2023 - Talk`
+__Gradute Research Day, University of Rochester__ <br>
+Experimental Emergence of Conventions 
+
 `2023 - Poster`
 __Gordon Research Conference - Collective Behavior__ <br>
 [Experimental Emergence of Conventions in Human Dyads](https://drive.google.com/file/d/1w872w2Wg7ckLzSh4k2XnilAx-J1FYnFs/view?usp=sharing) 
@@ -56,12 +60,18 @@ Dept. of Cognitive Science, Indian Institute of Technology, Kanpur
 
 
 ## Mentorship - Undergraduate Mentees
-`Janejira Chapoomee` 2023-present - Neuroscience 
-`Enana Jacobs` 2023-present - Neuroscience 
-`Kiet Nguyen` 2023-present - Computer Science 
-`Skye Crocker` Summer 2023 - Data Science 
-`Federico Sanchez` 2022-2023 - Biology 
-`Helena Xiong` 2022-2023 - Neuroscience 
+`2023-present` 
+Janejira Chapoomee, Neuroscience <br>
+`2023-present` 
+Enana Jacobs, Neuroscience <br>
+`2023-present`
+Kiet Nguyen, Computer Science <br>
+`Summer 2023`
+Skye Crocker, Data Science 
+`2022-2023`
+Federico Sanchez, Biology 
+`2022-2023`
+Helena Xiong, Neuroscience 
 
 ## Employment History
 
