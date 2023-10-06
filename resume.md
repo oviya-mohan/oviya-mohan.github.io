@@ -28,7 +28,15 @@ Experimental Emergence of Conventions
 
 `2023 - Poster`
 __Gordon Research Conference - Collective Behavior__ <br>
-[Experimental Emergence of Conventions in Human Dyads](https://drive.google.com/file/d/1w872w2Wg7ckLzSh4k2XnilAx-J1FYnFs/view?usp=sharing) 
+Oviya Mohan and Dora Biro, [Experimental Emergence of Conventions in Human Dyads](https://drive.google.com/file/d/1w872w2Wg7ckLzSh4k2XnilAx-J1FYnFs/view?usp=sharing) 
+
+`2023 - Poster`
+__University of Rochester Undergradaute Research Exposition__ <br>
+Janejira Chapoomee, Oviya Mohan, Dora Biro, and Jude Mitchell, Evaluation of DeepLabCut multi-animal labeling in novel social foraging paradigm 
+
+`2022 - Poster`
+__University of Rochester Undergradaute Research Exposition__ <br>
+Helena Xiong, Oviya Mohan, Luke Shaw, Dora Biro, and Jude Mitchell, Application and Evaluation of DeepLabCut Multi-Animal Network
 
 `2019 - Poster`
 __6th Annual Conference on Cognitive Sciences - BITS, Goa__ <br>
@@ -61,7 +69,7 @@ Dept. of Cognitive Science, Indian Institute of Technology, Kanpur
 
 ## Mentorship - Undergraduate Mentees
 `2023-present` 
-Janejira Chapoomee, Neuroscience <br>
+Janejira Chapoomee, Neuroscience (Meliora Fellowship) <br>
 `2023-present` 
 Enana Jacobs, Neuroscience <br>
 `2023-present`
@@ -71,7 +79,7 @@ Skye Crocker, Data Science <br>
 `2022-2023`
 Federico Sanchez, Biology <br>
 `2022-2023`
-Helena Xiong, Neuroscience <br>
+Helena Xiong, Neuroscience (Wiesman Scholarship) <br>
 
 ## Employment History
 
