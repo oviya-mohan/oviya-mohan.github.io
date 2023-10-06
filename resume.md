@@ -26,21 +26,26 @@ Bachelor of Science, Physics
 __Gradute Research Day, University of Rochester__ <br>
 Experimental Emergence of Conventions 
 
-`2023 - Poster`
+`Summer 2023 - Poster`
 __Gordon Research Conference - Collective Behavior__ <br>
-<b> Oviya Mohan </b> and Dora Biro, [Experimental Emergence of Conventions in Human Dyads](https://drive.google.com/file/d/1w872w2Wg7ckLzSh4k2XnilAx-J1FYnFs/view?usp=sharing) 
+<b> Oviya Mohan </b> and Dora Biro <br>
+[Experimental Emergence of Conventions in Human Dyads](https://drive.google.com/file/d/1w872w2Wg7ckLzSh4k2XnilAx-J1FYnFs/view?usp=sharing) 
 
-`2023 - Poster`
+`Summer 2023 - Poster`
 __University of Rochester Undergradaute Research Exposition__ <br>
-Janejira Chapoomee, <b> Oviya Mohan </b>, Dora Biro, and Jude Mitchell, Evaluation of DeepLabCut multi-animal labeling in novel social foraging paradigm 
+Janejira Chapoomee, <b> Oviya Mohan </b>, Dora Biro, and Jude Mitchell <br>
+[Application and Evaluation of DeepLabCut Multi-Animal Network](https://drive.google.com/file/d/1n0GycKrNynn9Pf5NOd9UWYiNPlwNktZ5/view?usp=drive_link)
 
-`2022 - Poster`
+
+`Summer 2022 - Poster`
 __University of Rochester Undergradaute Research Exposition__ <br>
-Helena Xiong, <b> Oviya Mohan </b>, Luke Shaw, Dora Biro, and Jude Mitchell, Application and Evaluation of DeepLabCut Multi-Animal Network
+Helena Xiong, <b> Oviya Mohan </b>, Luke Shaw, Dora Biro, and Jude Mitchell <br>
+[Evaluation of DeepLabCut multi-animal labeling in novel social foraging paradigm](https://drive.google.com/file/d/1hC1yYHcGJj1qMSrNt3sc3trwwBAq8Rqp/view?usp=drive_link) 
 
-`2019 - Poster`
+`Fall 2019 - Poster`
 __6th Annual Conference on Cognitive Sciences - BITS, Goa__ <br>
-<b> Oviya Mohan </b>, Divita Singh, and Harish C Karnick, Newly Learned Social Associations Disrupt Target Search
+<b> Oviya Mohan </b>, Divita Singh, and Harish C Karnick <br>
+Newly Learned Social Associations Disrupt Target Search
 
 ## Teaching 
 
