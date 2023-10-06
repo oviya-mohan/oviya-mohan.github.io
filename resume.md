@@ -28,19 +28,19 @@ Experimental Emergence of Conventions
 
 `2023 - Poster`
 __Gordon Research Conference - Collective Behavior__ <br>
-Oviya Mohan and Dora Biro, [Experimental Emergence of Conventions in Human Dyads](https://drive.google.com/file/d/1w872w2Wg7ckLzSh4k2XnilAx-J1FYnFs/view?usp=sharing) 
+<b> Oviya Mohan </b> and Dora Biro, [Experimental Emergence of Conventions in Human Dyads](https://drive.google.com/file/d/1w872w2Wg7ckLzSh4k2XnilAx-J1FYnFs/view?usp=sharing) 
 
 `2023 - Poster`
 __University of Rochester Undergradaute Research Exposition__ <br>
-Janejira Chapoomee, Oviya Mohan, Dora Biro, and Jude Mitchell, Evaluation of DeepLabCut multi-animal labeling in novel social foraging paradigm 
+Janejira Chapoomee, <b> Oviya Mohan </b>, Dora Biro, and Jude Mitchell, Evaluation of DeepLabCut multi-animal labeling in novel social foraging paradigm 
 
 `2022 - Poster`
 __University of Rochester Undergradaute Research Exposition__ <br>
-Helena Xiong, Oviya Mohan, Luke Shaw, Dora Biro, and Jude Mitchell, Application and Evaluation of DeepLabCut Multi-Animal Network
+Helena Xiong, <b> Oviya Mohan </b>, Luke Shaw, Dora Biro, and Jude Mitchell, Application and Evaluation of DeepLabCut Multi-Animal Network
 
 `2019 - Poster`
 __6th Annual Conference on Cognitive Sciences - BITS, Goa__ <br>
-Newly Learned Social Associations Disrupt Target Search
+<b> Oviya Mohan </b>, Divita Singh, and Harish C Karnick, Newly Learned Social Associations Disrupt Target Search
 
 ## Teaching 
 
