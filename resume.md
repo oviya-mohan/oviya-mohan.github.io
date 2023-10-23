@@ -20,6 +20,21 @@ Master of Science (by Research), Cognitive Science
 __Amrita University, Coimbatore, India__ <br>
 Bachelor of Science, Physics  
 
+## Awards
+
+`2023`
+__Best Research Talk__ <br>
+Gradute Research Day, University of Rochester <br>
+Experimental Emergence of Conventions 
+
+`2016-17`
+__First Place in Univesity Examinations__ <br>
+Dept. of Physics, Amrita University 
+
+`2015-16`
+__First Place in Univesity Examinations__ <br>
+Dept. of Physics, Amrita University 
+
 ## Presentations
 
 `Fall 2023 - Talk`
