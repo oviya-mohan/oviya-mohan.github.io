@@ -127,4 +127,36 @@ __Graduate Student Representative__, Dept. of Brain and Cognitive Sciences, Univ
 `2022-2023`
 __Graduate Ambassador__, Graduate Education and Postdoctoral affairs, University of Rochester 
 
+`2019-2020` 
+__Hall Executive Committee__, Indian Institue of Technology, Kanpur, India 
+
+`2018` 
+__Technical Head, Department of Sciences__, Anokha - Amrtia University Tech Fest, India 
+
+`2016-2018` 
+__Founder and Core Member, Association of Sciences__, Amrtia Universtity, India 
+
+## Outreach 
+
+`2023 - present`
+__Diversity, Equity and Inclusivity (DEI) Committee__, Member (Outreach) 
+
+`2022` 
+__Brain Awareness Campaign__, Volunteer 
+__Habitat for Humanity__, Volunteer 
+
+`2020-2021`
+__eVidyaloka__, Content Creator 
+
+`2016-2017`
+__National Service Scheme__, Unit Secretary 
+
+`2016-2017`
+__National Service Scheme__, Volunteer 
+
+
+
+
+
+
 
