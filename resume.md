@@ -142,7 +142,7 @@ __Founder and Core Member, Association of Sciences__, Amrtia Universtity, India
 __Diversity, Equity and Inclusivity (DEI) Committee__, Member (Outreach) 
 
 `2022` 
-__Brain Awareness Campaign__, Volunteer 
+__Brain Awareness Campaign__, Volunteer <br>
 __Habitat for Humanity__, Volunteer 
 
 `2020-2021`
