@@ -47,13 +47,13 @@ __Gordon Research Conference - Collective Behavior__ <br>
 [Experimental Emergence of Conventions in Human Dyads](https://drive.google.com/file/d/1w872w2Wg7ckLzSh4k2XnilAx-J1FYnFs/view?usp=sharing) 
 
 `Summer 2023 - Poster`
-__University of Rochester Undergradaute Research Exposition__ <br>
+__University of Rochester Undergraduate Research Exposition__ <br>
 Janejira Chapoomee, <b> Oviya Mohan </b>, Dora Biro, and Jude Mitchell <br>
 [Application and Evaluation of DeepLabCut Multi-Animal Network](https://drive.google.com/file/d/1n0GycKrNynn9Pf5NOd9UWYiNPlwNktZ5/view?usp=drive_link)
 
 
 `Summer 2022 - Poster`
-__University of Rochester Undergradaute Research Exposition__ <br>
+__University of Rochester Undergraduate Research Exposition__ <br>
 Helena Xiong, <b> Oviya Mohan </b>, Luke Shaw, Dora Biro, and Jude Mitchell <br>
 [Evaluation of DeepLabCut multi-animal labeling in novel social foraging paradigm](https://drive.google.com/file/d/1hC1yYHcGJj1qMSrNt3sc3trwwBAq8Rqp/view?usp=drive_link) 
 
