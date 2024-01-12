@@ -14,15 +14,29 @@ There are several preliminary questions to be considered before we try to answer
 How do we reason? 
 
 There are several ideas that try to answer this question about how reasoning happens in the human mind. Three major systems of reasoning that are followed have been devised:
-1. Normative Reasoning - following formal logic 
-   Modus tollens: ¬q, p → q / ¬p,  
-   Bayes’ theorem: P(D|S) = P(S|D)/P(D)
-2. Descriptive Reasoning -  reasoning as it is done    
-   ¬q, p → q / nothing can be derived
-   P(D|S)= P(S|D), neglect the “base rate”
-3. Prescriptive rules - taking bounded rationality into account 
+1. Normative Reasoning - following formal logic <br>
+   Modus tollens: ¬q, p → q / ¬p,  <br>
+   Bayes’ theorem: P(D|S) = P(S|D)/P(D) 
+2. Descriptive Reasoning -  reasoning as it is done <br>
+   ¬q, p → q / nothing can be derived <br>
+   P(D|S)= P(S|D), neglect the “base rate” 
+3. Prescriptive rules - taking bounded rationality into account <br>
    classically invalid principle ¬q, p ∧ r → q/¬p ∧ ¬r is correct according to closed–world reasoning
 
+There are different views with respect to whether human reason according to one or more of these systems and whether there is a scope of improvement or changing from one system to another. The three major views are Panglossian, Meliorist and Apologist. Eliminativism is an extreme view that posits that none of these systems are followed. A Panglossian view states that humans actually reason normatively and whatever shortcomings we have can be attributed to a discrepancy in interpretation. An Apologist and Meriolist view suggest that human reasoning is actually prescriptive in nature (the main difference between the two being that the Apologist view believes that no learning can help improve this subnormal reasoning whereas the Meriolist view believes that learning can lead to improved reasoning). An Eliminativist view posits that there is no reasoning at all, what we do is just follow an algorithm that has developed to help us make fast and frugal decisions within the given constraints of energy and time. 
+The Panglossian view believes that there is no gap between how people perform on reasoning tasks and how they ought to optimally perform. It avoids ascribing irrationality to human reasoning. The suboptimal behavioural patterns demonstrated in findings from cognitive psychology are explained without being labelled irrational. They are rather attributed to three different possible reasons for suboptimality: 
+Performance errors that arise out of minor cognitive slips due to inattention, memory lapses or other temporary and unimportant psychological malfunctions.   
+The experimenter is holding the participant to an incorrect model of optimality. Given our computational constraints (limited working memory, attention span etc), expecting us to perform normatively doesn’t seem like a realistic explanation.  
+The participant has misunderstood the task and has interpreted it in a way that is different from what the experimenter is trying to convey. 
+This view of rationality in human beings is prominent in the field of economics where economic agents are presumed to behave in a rational manner. But psychological studies show that all these apparently rational consumers are equipped with nothing but rules for handling specific cognitive tasks. If we throw a question in a form that doesn’t confine to the standards, then the so claimed ‘irrationality’ is revealed. But, according to a Panglossian view, human irrationality is a conceptual impossibility. 
+
+Another view on how humans reason is termed the Meliorist position, which dictates that human reasoning is actually prescriptive in nature. It begins with the stance that there is significant room for improvement in this process of human reasoning. In contrast to the Panglossian view, here not all human errors in reasoning are explained away. 
+
+The Apologist view is similar to the Meliorist in the sense that it regards the errors made in human reasoning as real and not ascribed to the reasons explained by Panglossianism. But, this view does not ascribe these errors to irrationality. They ascribe it to the limited resources available to humans as the cause for this lack of normativity. Thus, this view propagates the idea that human reasoning is prescriptive in nature but there is no room for improvement in this. 
+            
+The Meliorist view seems the most plausible given the evidence from studies in Cognitive Psychology. The Sure Thing Principle (Savage 1954) states that if given a choice between A and B and the possibility of an event X (which may or may not happen), if I prefer A over B given that X has happened and I also prefer A over B given that X has not happened then I should prefer A over B regardless of the information I have about X. But this was proved to be wrong by Tversky and Shafir (1992). Participants were asked to imagine that they were students who had just taken an exam at the end of term and they were planning on going on vacation. These participants were split into three groups - one of the groups were told that they had passed the exam, another group were told that they had failed the exam and the last group were not told about their results. Majority of the participants in both the first two groups (who knew they had passed and failed) decided to go on the vacation whereas very few participants in the third group (who were not told the results of the exam) decided to go on vacation. As can be seen, the Sure Thing Principle, which seems very obvious, has been violated. Similarly, the Transitivity Principle which states that if you prefer A to B and B to C, then you should prefer A to C is also violated under certain conditions. These evidences don’t necessarily go against the Panglossian view since these “mistakes” can be attributed to either performance errors, unrealistic optimality expectations or even misconstruing of the given task by the participants. But, when we become aware of these inconsistencies in our everyday reasoning it is possible for us to reflect on our decisions and perhaps change them (though not always). Some sort of education or provision of information allows us to refine our reasoning process to some extent in cases of fallacies like this. 
+
+![Wason's card selection task](/path/to/image.png "Text to show on mouseover")
 
 ### Intuitions and Beliefs
 
