@@ -6,6 +6,24 @@ title: Essays
 A random collection of essays I have written over the years, either for courses or for fun.
 
 -------------------------------------------------------------------------------------------
+### Reasoning 
+According to long withstanding philosophical ideas, reasoning is what enables the human mind to go beyond mere perception, habit, and instinct, making humans unique. Kahneman proposed a system of that thinking that is made up of two different subsystems. System 1 (Intuition) was said to be the fast process whereas System 2 (Reasoning) was said to be the slower and deliberative process. Reasoning is generally seen as a means to improve upon the decisions made in the first, faster system. But, it hasn’t always been the case that this deliberative process of reasoning always leads to a better decision. Therefore, a question arises. Why do we actually reason? And how do we reason? 
+
+There are several preliminary questions to be considered before we try to answer these two questions. One of them is the question of logical truth. Is logical truth the objective truth or is it influenced by cultural influences and is actually subjective? Are we all reasoning towards the same logical, objective truth or is there a discrepancy amongst us about what the final reachable truth is. If there is no objective logical truth, then the question is how did an almost identical concept of formal logic arise parallelly and independently across cultures? 
+
+How do we reason? 
+
+There are several ideas that try to answer this question about how reasoning happens in the human mind. Three major systems of reasoning that are followed have been devised:
+1. Normative Reasoning - following formal logic 
+   Modus tollens: ¬q, p → q / ¬p,  
+   Bayes’ theorem: P(D|S) = P(S|D)/P(D)
+2. Descriptive Reasoning -  reasoning as it is done    
+   ¬q, p → q / nothing can be derived
+   P(D|S)= P(S|D), neglect the “base rate”
+3. Prescriptive rules - taking bounded rationality into account 
+   classically invalid principle ¬q, p ∧ r → q/¬p ∧ ¬r is correct according to closed–world reasoning
+
+
 ### Intuitions and Beliefs
 
 Intuitions are defined as mental states where a proposition seems to be true. Various interpretations of what exactly an intuition is, seem to be closely tied to beliefs. Some definitions propose that one needs to believe in <i> p </i> (where <i> p </i> is a propositional attitude) in order to intuit p. Other interpretations seem to point that belief in <i> p </i> is neither sufficient nor necessary for holding the intuition that <i> p </i>. Yet another idea about intuition states that one can only have the intuition <i> p </i> if they are disposed to believe <i> p </i>. In order to understand what exactly an intuition can be, it is necessary to try and clearly define the differences between a belief and an intuition. For one to hold a belief that <i> p </i>, evidence has to be collected in favour of it and it has to be determined to be true. From the idea that intuition are mental states where a proposition seems to be true (seems being the key word here), we can define beliefs as mental states where a proposition has been determined to be true. 
