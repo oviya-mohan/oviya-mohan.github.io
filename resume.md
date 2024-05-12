@@ -41,8 +41,9 @@ Dept. of Physics, Amrita University
 
 `May 2024 - Poster`
 __24th Annual Meeting of the Vision Sciences Society__ <br>
-Free-viewing of static natural images and movies in marmoset monkeys
 <b> Oviya Mohan </b>, Amy Bucklaew, Dora Biro, and Jude F. Mitchell
+Free-viewing of static natural images and movies in marmoset monkeys
+
 
 `April 2024 - Talk`
 __31st International Conference on Comparative Cognition__ <br>
