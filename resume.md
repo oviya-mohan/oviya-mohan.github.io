@@ -21,6 +21,8 @@ __Amrita University, Coimbatore, India__ <br>
 Bachelor of Science, Physics  
 
 ## Awards
+`2024-25`
+__Donald M. and Janet C. Barnard Fellow__ <br>
 
 `2023`
 __Best Research Talk__ <br>
@@ -36,6 +38,20 @@ __First Place in Univesity Examinations__ <br>
 Dept. of Physics, Amrita University 
 
 ## Presentations
+
+`May 2024 - Poster`
+__24th Annual Meeting of the Vision Sciences Society__ <br>
+Free-viewing of static natural images and movies in marmoset monkeys
+<b> Oviya Mohan </b>, Amy Bucklaew, Dora Biro, and Jude F. Mitchell
+
+`April 2024 - Talk`
+__31st International Conference on Comparative Cognition__ <br>
+Experimental Emergence of Conventions 
+
+`Spring 2024 - Poster`
+__Graduate Research Symposium, University of Rochester__ <br>
+<b> Oviya Mohan </b> and Dora Biro <br> 
+Experimental Emergence of Conventions 
 
 `Fall 2023 - Talk`
 __Gradute Research Day, University of Rochester__ <br>
