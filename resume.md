@@ -23,6 +23,7 @@ Bachelor of Science, Physics
 ## Awards
 `2024-25`
 __Donald M. and Janet C. Barnard Fellow__ <br>
+Awarded by the School of Arts, Sciences & Engineering at the University of Rochester, in recognition of achievements in mentoring, outreach and service, as well as in research.
 
 `2023`
 __Best Research Talk__ <br>
