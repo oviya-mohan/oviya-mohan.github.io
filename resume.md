@@ -66,13 +66,13 @@ __Gordon Research Conference - Collective Behavior__ <br>
 `Summer 2023 - Poster`
 __University of Rochester Undergraduate Research Exposition__ <br>
 Janejira Chapoomee, <b> Oviya Mohan </b>, Dora Biro, and Jude Mitchell <br>
-[Application and Evaluation of DeepLabCut Multi-Animal Network](https://drive.google.com/file/d/1n0GycKrNynn9Pf5NOd9UWYiNPlwNktZ5/view?usp=drive_link)
+Application and Evaluation of DeepLabCut Multi-Animal Network
 
 
 `Summer 2022 - Poster`
 __University of Rochester Undergraduate Research Exposition__ <br>
 Helena Xiong, <b> Oviya Mohan </b>, Luke Shaw, Dora Biro, and Jude Mitchell <br>
-[Evaluation of DeepLabCut multi-animal labeling in novel social foraging paradigm](https://drive.google.com/file/d/1hC1yYHcGJj1qMSrNt3sc3trwwBAq8Rqp/view?usp=drive_link) 
+Evaluation of DeepLabCut multi-animal labeling in novel social foraging paradigm
 
 `Fall 2019 - Poster`
 __6th Annual Conference on Cognitive Sciences - BITS, Goa__ <br>
