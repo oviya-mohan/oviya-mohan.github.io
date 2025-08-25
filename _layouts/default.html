@@ -1,38 +1,14 @@
-{% raw %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
-
-  <!-- SEO and metadata -->
+  <title>{{ page.title | escape }}</title>
   {% seo %}
 
-  <!-- Theme default CSS (optional if using minima) -->
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
-  <!-- Your custom CSS -->
+  <!-- Your compiled SCSS -->
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-
 </head>
 <body>
-  <!-- Optional header -->
-  <header>
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.owner.bio }}</p>
-  </header>
-
-  <!-- Main content -->
-  <main>
-    {{ content }}
-  </main>
-
-  <!-- Optional footer -->
-  <footer>
-    <p>&copy; {{ site.time | date: "%Y" }} {{ site.owner.name }}</p>
-  </footer>
+  {{ content }}
 </body>
 </html>
-{% endraw %}
