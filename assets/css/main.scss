@@ -1,25 +1,14 @@
 ---
+# This is required front matter; only one block!
 ---
 
-@import "variables";  // if you have any _sass partials
-@import "other";      // optional
+/* Minimal Mistakes Custom Styles */
 
----
-sitemap: false
----
-
-/*
- *
- *  Minimal Mistakes
- *
- *  Designer: Michael Rose
- *  Twitter: https://twitter.com/mmistakes
- *
-*/
-
-// Partials
+// Define SCSS variables using site config
 $highlightcolor: {{ site.highlight-color }};
 $lowlightcolor: {{ site.lowlight-color }};
+
+// Import partials
 @import "variables";
 @import "grid";
 @import "mixins";
