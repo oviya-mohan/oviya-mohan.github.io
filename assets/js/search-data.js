@@ -448,11 +448,32 @@ ninja.data = [{
           window.open("mailto:%6F%6D%6F%68%61%6E@%75%72.%72%6F%63%68%65%73%74%65%72.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/oviya-mohan", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/oviya-mohan-457702189", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=c2HPcQ8AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/oviya_mohan", "_blank");
         },
       },{
       id: 'light-theme',
