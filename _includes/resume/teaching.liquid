@@ -1,0 +1,9 @@
+<ul>
+  {% for t in data[1] %}
+    <li>
+      <strong>{{ t.courseTitle }}</strong>, {{ t.role }} – {{ t.institution -}}
+      <br>
+      Terms: {{ t.terms | join: ', ' }}
+    </li>
+  {% endfor %}
+</ul>
