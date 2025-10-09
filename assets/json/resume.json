@@ -92,6 +92,37 @@
       "endDate": "2017",
       "summary": "Utilized a tribometer to characterize frictional properties of various coatings"
     } 
+  ],
+  "awards": [
+    {
+      "title": "Diverse Intelligences Summer Institute Fellow",
+      "date": "July 2025",
+      "awarder": "Templeton World Charity Foundation ",
+      "url": "disi.org",
+      "summary": "Vibrant network of early-career scholars who are devoted to bold, transdisciplinary inquiry into the origins, nature, and future of intelligences."
+    },
+    {
+      "title": "Kuczaj Memorial Travel Grant",
+      "date": "March 2025",
+      "awarder": "National Marine Mammal Foundation",
+      "url": "https://nmmf.org/stan-kuczaj-fund/",
+      "summary": "Awarded  to students attending the Conference on Comparative Cognition (CO3), administered in memory of Dr. Stan Kuczaj, who was a leader in the study of comparative animal cognition, and believed in pursuing challenging topics in human and animal cognition with rigor, candor, and the spirit of intellectual adventure."
+    },
+    {
+      "title": "Donald M. and Janet C. Barnard Fellowship",
+      "startDate": "September 2024",
+      "endDate" : "May 2025", 
+      "awarder": "University of Rochester",
+      "url": "https://x.com/UoR_BrainCogSci/status/1777765925762326546",
+      "summary": "Awarded by the School of Arts, Sciences & Engineering in recognition of achievements in research, mentoring, outreach, and service"
+    },
+    {
+      "title": "Best Research Talk",
+      "date": "October 2023",
+      "awarder": "University of Rochester",
+      "url": "https://x.com/UoR_BrainCogSci/status/1716535439585149344",
+      "summary": "Best Talk at Gradaute Research Day"
+    }
   ]
   
 }
