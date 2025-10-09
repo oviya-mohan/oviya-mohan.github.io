@@ -98,7 +98,7 @@
       "title": "Diverse Intelligences Summer Institute Fellow",
       "date": "July 2025",
       "awarder": "Templeton World Charity Foundation ",
-      "url": "disi.org",
+      "url": "https://disi.org",
       "summary": "Vibrant network of early-career scholars who are devoted to bold, transdisciplinary inquiry into the origins, nature, and future of intelligences."
     },
     {
@@ -110,8 +110,7 @@
     },
     {
       "title": "Donald M. and Janet C. Barnard Fellowship",
-      "startDate": "September 2024",
-      "endDate" : "May 2025", 
+      "startDate": "September 2024", 
       "awarder": "University of Rochester",
       "url": "https://x.com/UoR_BrainCogSci/status/1777765925762326546",
       "summary": "Awarded by the School of Arts, Sciences & Engineering in recognition of achievements in research, mentoring, outreach, and service"
@@ -123,6 +122,64 @@
       "url": "https://x.com/UoR_BrainCogSci/status/1716535439585149344",
       "summary": "Best Talk at Gradaute Research Day"
     }
-  ]
+  ],
+ "teaching": [
+  {
+    "courseTitle": "Animal Minds",
+    "courseNumber": "BCSC 183",
+    "role": "Co-Instructor",
+    "institution": "University of Rochester",
+    "terms": ["Fall 2025"]
+  },
+  {
+    "courseTitle": "Animal Minds",
+    "courseNumber": "BCSC 183",
+    "role": "Gradaute Teaching Assistant",
+    "institution": "University of Rochester",
+    "terms": ["Fall 2022, Fall 2023"]
+  },
+  {
+    "courseTitle": "Computatioanl Models of Perception and Cognition",
+    "courseNumber": "BCSC 229",
+    "role": "Gradaute Teaching Assistant",
+    "institution": "University of Rochester",
+    "terms": ["Spring 2025"]
+  },
+  {
+    "courseTitle": "Language Use and Understanding",
+    "courseNumber": "BCSC 183",
+    "role": "Guest Lecturer",
+    "institution": "University of Rochester",
+    "terms": ["Fall 2024, Fall 2025"]
+  },
+  {
+    "courseTitle": "Advanced Methods in Brain and Cognitive Sciences",
+    "courseNumber": "BCSC 509",
+    "role": "Organizer and Instructor",
+    "institution": "University of Rochester",
+    "terms": ["Spring 2023"]
+  },
+  {
+    "courseTitle": "Statistics for Brain and Cognitive Sciences",
+    "courseNumber": "BCSC 519",
+    "role": "Organizer and Instructor",
+    "institution": "University of Rochester",
+    "terms": ["Fall 2022"]
+  },
+  {
+    "courseTitle": "Basic Statistics, Data Analysis and Inference",
+    "courseNumber": "CGS 602A",
+    "role": "Tutor",
+    "institution": "Indian Institute of Technology, Kanpur",
+    "terms": ["Fall 2020"]
+  },
+  {
+    "courseTitle": "Logic and Cognitive Science",
+    "courseNumber": "CGS 651A",
+    "role": "Gradaute Teaching Assistant",
+    "institution": "Indian Institute of Technology, Kanpur",
+    "terms": ["Spring 2020"]
+  }
+ ]
   
 }
