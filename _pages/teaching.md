@@ -33,14 +33,10 @@ nav_order: 6
 **Organizer/Instructor** | _Spring 2023_
 
 - **Non-parametric Tests**
-  — [Slides](https://docs.google.com/presentation/d/1vi5P3HFPR8PiI6nHyjP83Bm_aZm2ll6vMZjM8sTug14/edit?usp=sharing)
-
-  - [Example Code](https://colab.research.google.com/drive/1Vw_hah2VR9W7n0vGrsBvhiKJK8t4fe1c?usp=sharing)
+  — [Slides](https://docs.google.com/presentation/d/1vi5P3HFPR8PiI6nHyjP83Bm_aZm2ll6vMZjM8sTug14/edit?usp=sharing), [Example Code](https://colab.research.google.com/drive/1Vw_hah2VR9W7n0vGrsBvhiKJK8t4fe1c?usp=sharing)
 
 - **Markov Chains and Hidden Markov Models**
-  — [Slides](https://docs.google.com/presentation/d/1sVc9qD1t1rN_DHsXlNM77Nu0-RiTa2hb1wi3_5N99vM/edit?usp=sharing)
-
-  - [Example Code](https://colab.research.google.com/drive/10ZL1HtIr_MWwcMfabn-qX0IJ17MXEUgn?usp=sharing)
+  — [Slides](https://docs.google.com/presentation/d/1sVc9qD1t1rN_DHsXlNM77Nu0-RiTa2hb1wi3_5N99vM/edit?usp=sharing), [Example Code](https://colab.research.google.com/drive/10ZL1HtIr_MWwcMfabn-qX0IJ17MXEUgn?usp=sharing)
 
 ---
 
