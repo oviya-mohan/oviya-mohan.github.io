@@ -45,7 +45,7 @@ nav_order: 6
 **Organizer/Instructor** | _Fall 2022_
 
 - **GLM**
-  — [[Slides](https://docs.google.com/presentation/d/1v1LGW5_R1HKDA_COD6wP1n2MkmV3j-RuVg1g2G4FdC0/edit?usp=sharing)]
+  — [Slides](https://docs.google.com/presentation/d/1v1LGW5_R1HKDA_COD6wP1n2MkmV3j-RuVg1g2G4FdC0/edit?usp=sharing)
 
 ---
 
