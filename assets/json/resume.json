@@ -62,36 +62,30 @@
       "endDate": "2018"
     }
   ],
-  "work": [
-    {
-      "name": "Applied Dynamics and Vibration Laboratory",
-      "position": "Research Associate",
-      "institution": "Indian Institute of Technology, Kanpur",
-      "location": "Kanpur, India",
-      "startDate": "2021",
-      "endDate": "2021",
-      "summary": "Designed an intuitive GUI to display data from a gas pipeline health monitoring robot (PHMR), for a project commissioned by the Gas Authority of India Ltd. (GAIL)."
-    },
-    {
-      "name": "Role of Object's Self Relevance in Attentional Guidance",
-      "position": "Research Assistant",
-      "institution": "Indian Institute of Technology, Kanpur",
-      "location": "Kanpur, India",
-      "startDate": "2018",
-      "endDate": "2019",
-      "summary": "Designed and conducted behavioral experiments to understand the role of an object’s self-relevance when used as a distractor in visual search paradigms."
-    },
-    {
-      "name": "Tribological Characterization and Coating Deposition",
-      "position": "Research Intern",
-      "institution": "Defence Research & Development Organization",
-      "location": "Hyderabad, India",
-      "startDate": "2017",
-      "endDate": "2017",
-      "summary": "Utilized a tribometer to characterize frictional properties of various coatings"
-    }
-  ],
   "awards": [
+    {
+      "title": "Best Graduate Student Talk Award ",
+      "date": "April 2026",
+      "awarder": "Collective Cogniiton Society",
+      "url": "https://www.rochester.edu/provost/honors-awards/teaching-awards/edward-peck-curtis-awards-for-excellence-in-teaching-by-a-graduate-student/"
+    },
+    {
+      "title": "Edward Peck Curtis Teaching Award ",
+      "date": "April 2026",
+      "awarder": "University of Rochester ",
+      "url": "https://www.rochester.edu/provost/honors-awards/teaching-awards/edward-peck-curtis-awards-for-excellence-in-teaching-by-a-graduate-student/"
+    },
+    {
+      "title": "Open Scholarship Award",
+      "date": "April 2026",
+      "awarder": "University of Rochester ",
+      "url": "https://opensci.lib.rochester.edu/open-scholarship-awards#awardees2026"
+    },
+    {
+      "title": "Three Minute Thesis - Runner Up",
+      "date": "December 2025",
+      "awarder": "University of Rochester "
+    },
     {
       "title": "Diverse Intelligences Summer Institute Fellow",
       "date": "July 2025",
@@ -177,6 +171,35 @@
       "role": "Graduate Teaching Assistant",
       "institution": "Indian Institute of Technology, Kanpur",
       "terms": ["Spring 2020"]
+    }
+  ],
+  "work": [
+    {
+      "name": "Applied Dynamics and Vibration Laboratory",
+      "position": "Research Associate",
+      "institution": "Indian Institute of Technology, Kanpur",
+      "location": "Kanpur, India",
+      "startDate": "2021",
+      "endDate": "2021",
+      "summary": "Designed an intuitive GUI to display data from a gas pipeline health monitoring robot (PHMR), for a project commissioned by the Gas Authority of India Ltd. (GAIL)."
+    },
+    {
+      "name": "Role of Object's Self Relevance in Attentional Guidance",
+      "position": "Research Assistant",
+      "institution": "Indian Institute of Technology, Kanpur",
+      "location": "Kanpur, India",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "Designed and conducted behavioral experiments to understand the role of an object’s self-relevance when used as a distractor in visual search paradigms."
+    },
+    {
+      "name": "Tribological Characterization and Coating Deposition",
+      "position": "Research Intern",
+      "institution": "Defence Research & Development Organization",
+      "location": "Hyderabad, India",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "Utilized a tribometer to characterize frictional properties of various coatings"
     }
   ]
 }
