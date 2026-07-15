@@ -29,12 +29,12 @@
   "projects": [
     {
       "name": "Experimental emergence of conventions in humans",
-      "summary": "Studying the emergence of conventions in the laboratory under various conditions through computerized multiplayer tasks with humans to address questions that promise to yield significant advances for our understanding of how groups solve recurring multi-agent coordination problems",
+      "summary": "Studying the emergence of conventions under various conditions through computerized multiplayer tasks with humans to address questions that advances our understanding of how groups solve recurring multi-agent coordination problems",
       "startDate": "2021"
     },
     {
       "name": "Coordinated problem solving in marmoset monkeys <i> (Callithrix jacchus) </i>",
-      "summary": "Developing a paradigm to study the cognitive mechanisms underlying coordinated problem-solving by using deep learning and machine vision tools to track and quantify visual attention in free-moving common marmosets ",
+      "summary": "Developing a paradigm to investigate the cognitive mechanisms underlying coordinated problem-solving in a physically intuitive task with a cooperatively breeding primate to uncover the evolutionary emergence of complex coordination across species",
       "startDate": "2021",
       "url": "https://github.com/oviya-mohan/3Dmarmogaze"
     },
@@ -44,7 +44,7 @@
       "startDate": "2021"
     },
     {
-      "name": "Master's Thesis: Exectuive Function and Reasoning",
+      "name": "Master's Thesis: Human Reasoning Abilities and Exectuive Functions",
       "summary": "Designed and conducted experiments, using rules of formal logic, to understand the connection between executive functions and reasoning in different developmental stages, including school children ",
       "startDate": "2019",
       "endDate": "2021"
@@ -56,7 +56,7 @@
       "endDate": "2019"
     },
     {
-      "name": "Bachelor's Project: Pulse Generating Circuit for NMR (for an indigenous MRI",
+      "name": "Bachelor's Project: Pulse Generating Circuit for NMR (for an indigenous MRI)",
       "summary": "Built a pulse generating circuit for NMR using 555 timer IC for building an indigenous MRI machine",
       "startDate": "2018",
       "endDate": "2018"
